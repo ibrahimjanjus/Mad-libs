@@ -2,7 +2,7 @@
 
 Greetings! My name is Ibrahim, and I'm excited to share my still developing data engineer portfolio. Within this repository, you'll find a comprehensive catalog of projects completed in various data analytics/engineering courses or self development exercises, each of which covers essential skills and techniques.
 #
-### [Web Scrapping - Beautiful Soup](https://github.com/lucjankonopka/web_scrapping)
+### [Web Scraping - Beautiful Soup](https://github.com/lucjankonopka/web_scrapping)
 
 - Brief overview:   Beautiful Soup tool used to extract data from [official Berlin website](https://www.berlin.de/restaurants/stadtteile/), create a dataset with all restaurants in Berlin and then visualize in form of map of restaurants in Tableau Public.
 - Technology used: *python, Beautiful Soup, pandas*
